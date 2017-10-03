@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478115398 source:/home/ausias/Escriptori/ExcBucles/main.c
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,8 @@
+FICHEROS BINARIOS
+------------------
+
+fread(&variable, sizeof(variable), 1, fichero);
+
+--> fread devuelve el número de Bytes leidos, 0 si no ha podido leer ningúno
+
+fwrite(&variable, sizeof(variable), 1, fichero);

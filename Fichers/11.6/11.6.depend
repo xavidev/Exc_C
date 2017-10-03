@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1494433585 source:/home/ausias/Escriptori/11.6/main.c
+	<stdio.h>
+	<string.h>
+
